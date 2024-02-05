@@ -30,6 +30,8 @@ pip install -r requirements.txt
 Required Libraries
    
 tkinter: Used for building the GUI.
+
+
 matplotlib: Used for plotting the visualization.
 
 4. Run the application:
