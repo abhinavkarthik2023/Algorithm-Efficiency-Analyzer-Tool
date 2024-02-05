@@ -46,6 +46,8 @@ python GUI.py
 Selecting Sorting Algorithms: Check the checkboxes corresponding to the sorting algorithms you want to visualize.
 
 
+
+
 Input Methods:
 
 
@@ -53,6 +55,7 @@ Manual Input: Select the "Input Numbers Manually" option and enter space-separat
 
 
 Generated Numbers: Select the "Use Generated Numbers" option and specify the array size.
+
 
 
 Generating Array: Click the "Generate Array" button to generate the array based on the selected input method and size.
