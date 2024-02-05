@@ -16,8 +16,12 @@ Algorithm selection feature allows users to choose which sorting algorithms to i
 # Usage
 
 1. Clone the repository to your local machine:
+
    
-git clone https://github.com/your_username/sorting-algorithm-visualizer.git
+   
+git clone https://github.com/abhinavkarthik2023/Algorithm-Efficiency-Analyzer-Tool.git
+
+
 
 2. Navigate to the project directory:
 
